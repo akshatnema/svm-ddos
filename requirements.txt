@@ -1,0 +1,6 @@
+numpy
+joblib
+pandas
+matplotlib
+scikit-learn
+http

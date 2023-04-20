@@ -1,0 +1,4 @@
+*.pyc
+*.cpython-38.pyc
+app/
+.idea/
